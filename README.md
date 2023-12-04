@@ -1,7 +1,7 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)]
 <h1 align="center">Hi 👋, I'm Tendai Nyevedzanai</h1>
 <h3 align="center">A passionate Computer Science and computer engineering student at UCT, with abysmal love for photography and current affairs</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytkeith&label=Profile%20views&color=0e75b6&style=flat" alt="bytkeith" /> </p>
 
@@ -27,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytkeith&show_icons=true&locale=en&layout=compact" alt="bytkeith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bytkeith&show_icons=true&locale=en" alt="bytkeith" /></p>
+
+
+
