@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my own website **1HUB**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **keithsolo.sav@gmail.com**
 
