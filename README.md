@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my own website **1HUB**
+<img align="right" alt="Coding" width="20%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFuZ283NGlpdjJ0dGxtbTRqeWU5bXVoamgxYnRyOG96cTlrZHAwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif">
 
 - 📫 How to reach me **keithsolo.sav@gmail.com**
 
