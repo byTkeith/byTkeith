@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3ZnXFKgGgs32mB69sTNIJX&ust=1708353428720000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDQ6MyOtYQDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Tendai Nyevedzanai</h1>
-<h3 align="center">A passionate Computer Science and computer engineering student at UCT, with abysmal love for photography and current affairs</h3>
+<h3 align="center">A passionate Computer Science and Business Computing student at UCT, a computer solutions driven enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytkeith" alt="bytkeith" /></a> </p>
 
