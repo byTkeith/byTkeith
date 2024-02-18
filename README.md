@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Tendai Nyevedzanai</h1>
 <h3 align="center">A passionate Computer Science and computer engineering student at UCT, with abysmal love for photography and current affairs</h3>
 
