@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3ZnXFKgGgs32mB69sTNIJX&ust=1708353428720000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDQ6MyOtYQDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="100%" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
 <h1 align="center">Hi 👋, I'm Tendai Nyevedzanai</h1>
 <h3 align="center">A passionate Computer Science and Business Computing student at UCT, a computer solutions driven enthusiast</h3>
 
