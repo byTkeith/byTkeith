@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="20%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFuZ283NGlpdjJ0dGxtbTRqeWU5bXVoamgxYnRyOG96cTlrZHAwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif">
 
 - 📫 How to reach me **keithsolo.sav@gmail.com**
-- 🌱 I’m currently **studying**
+- 🌱 projects done: **Employee Management System**
 - ⚡ Fun fact **i hate coffee**
 
 <h3 align="left">Connect with me:</h3>
