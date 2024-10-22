@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **keithsolo.sav@gmail.com**
 - 🌱 projects done: **Employee Management System**
+                     **Assistant AI Reader**
 - ⚡ Fun fact **i hate coffee**
 
 <h3 align="left">Connect with me:</h3>
